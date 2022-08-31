@@ -11,6 +11,7 @@
 <body>
 <h1 align="center">Welcome to Mithun Technologies. One of the outstanding Trainng center.</h1>
 <h1 align="center">Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios.Will be able to learn only if you keep the learning attitude</h1>
+<h1 align="center">Latest Update:- Added GitHub WebHooks</h1>	
 <hr>
 <div style="text-align: center;">
 	<span>
